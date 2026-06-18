@@ -16,7 +16,7 @@ int main()
         cout << "3.Menu Riwayat  Parkir\n";
         cout << "0.Keluar ...\n";
         cout << "Pilihan: ";
-        cin >> pilihan;          // <-- ini yang kurang
+        cin >> pilihan;          
 
         switch (pilihan)
         {

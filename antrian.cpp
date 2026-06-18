@@ -4,7 +4,7 @@
 using namespace std;
 
 struct Kendaraan{
-    string platNomor, jenis; //mobil atau motor
+    string platNomor, jenis; 
 };
 
 //tambah antrian
